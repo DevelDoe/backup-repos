@@ -14,7 +14,7 @@ pkg backup-repos.js --output backup-repos.exe
 ```
 Now, backup-repos.exe can be placed in `C:\Users\YourUser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup` so it runs automatically when you start Windows.
 
-## Option 2: Use Task Scheduler (Preferred)
+## Option 2: Use Task Scheduler 
 This is the easiest and safest way to make the script run on its own at startup.
 
 Steps:
