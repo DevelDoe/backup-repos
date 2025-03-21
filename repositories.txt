@@ -8,4 +8,5 @@ D:\coding\24\vue\moms\moms-journal
 D:\coding\24\vue\moms\server-moms
 D:\coding\24\vue\moms\socket-moms
 D:\coding\24\node\backup_repos
-D:\coding\24\typeScript
+D:\coding\24\typescript\srv_mtp_admin
+D:\coding\24\typescript\srv_news
