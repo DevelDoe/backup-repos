@@ -4,9 +4,9 @@ D:\coding\24\discord
 D:\coding\24\electron\MTM
 D:\coding\24\electron\MTT
 D:\coding\24\autohotkey\trading
-D:\coding\24\vue\moms\moms-journal
-D:\coding\24\vue\moms\server-moms
-D:\coding\24\vue\moms\socket-moms
+D:\coding\24\vue\moms\mtj
+D:\coding\24\vue\moms\mtj-server
+D:\coding\24\vue\moms\mtj-socket
 D:\coding\24\node\backup_repos
 D:\coding\24\typescript\srv_mtp_admin
 D:\coding\24\typescript\srv_news
